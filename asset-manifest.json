@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.f621f148.js",
+    "static/media/game-win.wav": "/static/media/game-win.57fe6abc78a419553ee3.wav",
+    "static/media/cardMatch.mp3": "/static/media/cardMatch.81a099a67a2356730b6f.mp3",
+    "static/media/flipcard.mp3": "/static/media/flipcard.482865a614fed3add746.mp3",
+    "static/media/shuffling-cards.mp3": "/static/media/shuffling-cards.1f79c61b0d48a97eea29.mp3",
+    "static/media/cardflip.mp3": "/static/media/cardflip.47a5e52c776760b4f347.mp3",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.f621f148.js.map": "/static/js/main.f621f148.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f621f148.js"
+  ]
+}
